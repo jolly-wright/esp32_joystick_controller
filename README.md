@@ -1,5 +1,5 @@
 # esp32_joystick_controller
-A basic <strong>esp32 joystick controller</strong> that connect's with different bots via wifi or espnow if available,<br> this is just a basic take of mine for robotics journey.
+A basic <strong>esp32 joystick controller</strong> that connects with different bots via wifi or espnow if available,<br> this is just a basic take of mine for robotics journey.
 
 <h5>yt playthrough (RuneRadiance): https://www.youtube.com/watch?v=6VAcHWxVyPE</h5>
 
